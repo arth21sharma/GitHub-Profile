@@ -2,7 +2,6 @@
 
 🎓 **CS-AI Undergraduate @ VIT Pune** | Final Year  
 🤖 Building intelligent systems with **Computer Vision, LLMs & Multi-Agent Architectures**  
-🚁 Passionate about **drone-based AI applications** and **real-world automation**
 
 ---
 
